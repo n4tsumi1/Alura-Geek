@@ -6,4 +6,5 @@ Projeto pertencente ao curso de formação em Front End da Oracle Next Education
 Criação de site de e-commerce para fins educacionais..
 
 # Badge 💨
-Em breve. :)
+![cms_files_10224_1671211759Prancheta_10](https://github.com/n4tsumi1/Alura-Geek/assets/72478111/5953253f-f9ad-4fe4-aaa4-c23b9bc6e032)
+
